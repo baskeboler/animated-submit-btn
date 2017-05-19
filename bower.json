@@ -1,0 +1,24 @@
+{
+  "name": "svg-button-component",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "Victor Gil"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "directory": "js/vendor",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gsap": "^1.19.1",
+    "jquery": "^3.2.1",
+    "riot": "^3.5.0"
+  }
+}
